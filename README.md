@@ -1,5 +1,5 @@
-# Modelling-and-Visualisation
-Spring 2022 course
+# Ising-Model
+Spring 2022, part of Modelling and Visualisation in Physics
 
 There are three Python scripts:
 
